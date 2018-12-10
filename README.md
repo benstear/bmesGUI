@@ -1,3 +1,6 @@
+Repo for "Retrospective Graphical User Interface for Neuroergonomic Wheelchair Control Experiment"
+
+
 Final Code folder contains all the final, individual functions for the entire project which includes 
 ECGplot.py, fnirplot.py, mainwindow.py, test.py, utilities.py, videowidget.py
 - ECGplot.py reads the ECG data, and displays it on the GUI
@@ -38,14 +41,14 @@ index.yml contains the abstract of the gui/project
 
 Python Packages necessary to run the GUI:
 
--numpy
--pandas
--PyQt5
--PyQtGui
--PyQtGraph
--cv2
--os
--sys
+-numpy \n
+-pandas \n
+-PyQt5 \n
+-PyQtGui \n
+-PyQtGraph \n
+-cv2 \n
+-os \n
+-sys \n\n
 
 
 Our program has been tested on MacOS (Mojave) running on a 2.7 GHz Intel Core i5 processor.
